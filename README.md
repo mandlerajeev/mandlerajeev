@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mandlerajeev
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning Devops
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning javascript
+- 💞️ I’m looking to collaborate on web development projects
+- 📫 How to reach me https://linktr.ee/rajeevmandle
 
 <!---
 mandlerajeev/mandlerajeev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
