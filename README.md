@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on web development projects
-- 📫 How to reach me https://linktr.ee/rajeevmandle
+- 📫 How to reach me https://bio.link/rajeevmandle
 
 <!---
 mandlerajeev/mandlerajeev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
